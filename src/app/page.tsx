@@ -8,7 +8,7 @@ import {
   Input,
   Button,
 } from "@chakra-ui/react";
-import logo from "../../public/img/logo.png";
+import logo from '../../public/img/logo.png'
 import { useState } from "react";
 import Link from "next/link";
 export default function Home() {
